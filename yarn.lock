@@ -4637,10 +4637,10 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-extract-css-chunks-webpack-plugin@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.npmjs.org/extract-css-chunks-webpack-plugin/-/extract-css-chunks-webpack-plugin-3.3.0.tgz#1809d576a21a7fe01b176c94b7345df8a25195b5"
-  integrity sha512-xwwgpBhSjwn7R0TnUvTCVEsL2jIfr6cS4LSoogtpxlj1SFO5MQNwGbDdxIFeuLGixIBn6g7pGi7gqycxtwoPvQ==
+extract-css-chunks-webpack-plugin@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.npmjs.org/extract-css-chunks-webpack-plugin/-/extract-css-chunks-webpack-plugin-3.3.1.tgz#c91f4b593a379a8c85f23cb9e17c895261f1c5df"
+  integrity sha512-/eyjr3P3sHaqr8sYXoY2Y5b4S9Z2KaPOwXYZ0KDrvrly0gRIR+UFbBR3zA8XIystwmqDtE5Yi9XiG/RkWop54A==
   dependencies:
     loader-utils "^1.1.0"
     lodash "^4.17.11"
